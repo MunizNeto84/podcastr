@@ -3,9 +3,9 @@
 ### running the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
+# or
+yarn server
 ```
 ### building the project's production server:
 
