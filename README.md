@@ -45,7 +45,7 @@ yarn add rc-slider
 
 ### NLW #05
 
-it was very rewarding to participate in this edition of nlw, i learned a lot this week about front-end, react, typescript. They really gave me the next level, I am much more motivated to continue learning and develop in this area
+it was very rewarding to participate in this edition of nlw, i learned a lot this week about front-end, react-next, typescript. They really gave me the next level, I am much more motivated to continue learning and develop in this area
 
 I want to thank rocktseat and the instructor of the react track Diego Fernandes, for this wonderful work. Congratulations
 
